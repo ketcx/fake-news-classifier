@@ -57,7 +57,7 @@ For this example we are based on the Kaggle data https://www.kaggle.com/clmentbi
 Sequential Model and Bi-Directional RNN and LSTM
 <br>
 
-## Exploratory Data Analysiscap
+## Exploratory Data Analysis
 
 <a name="#analysis"></a>
 
@@ -97,15 +97,12 @@ We used the Designer inspired by the laboratory of the course on text classifica
 
 If the predicted value is > 0.5 it is real else it is fake But in our example the Model Accuracy is 0.9985152190051967
 
-
 ### Confusion matrix
 
 <p align="center">
   <img src="https://github.com/ketcx/fake-news-classifier/blob/master/Images/matrix.png">
 </p>
-
 <br>
-
 
 ## Conclusion
 
